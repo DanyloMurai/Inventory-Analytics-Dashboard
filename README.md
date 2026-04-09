@@ -48,7 +48,14 @@ powerbi/
 README.md
 ```
 # Dashboard Preview
-Images will be added here.
+## Overview
+<img width="1163" height="651" alt="1" src="https://github.com/user-attachments/assets/eaa663de-ab72-4c7f-bc49-db3fc9d9ef23" />
+
+## SKU & Location Analysis
+<img width="1165" height="653" alt="2" src="https://github.com/user-attachments/assets/664f0ac9-1c8b-473a-bc7a-e7ad5592a1ac" />
+
+## Stock Risk
+<img width="1166" height="655" alt="3" src="https://github.com/user-attachments/assets/d0e01ea7-d391-4295-a22b-c0104d5bc847" />
 
 # Author
 Created by Danylo Murai as a portfolio project for Business / Data Analytics roles.
