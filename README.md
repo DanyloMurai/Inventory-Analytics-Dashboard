@@ -59,5 +59,3 @@ README.md
 
 # Author
 Created by Danylo Murai as a portfolio project for Business / Data Analytics roles.
-
-`Expand README`
