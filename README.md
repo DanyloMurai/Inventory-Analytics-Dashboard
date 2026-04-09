@@ -26,7 +26,7 @@ The dataset contains 2023 inventory movement data, including:
 - cleaned a complex multi-header Excel dataset in Python
 - transformed the data from wide format to long analytical format
 - validated and explored the dataset with SQL
-- build a 3-page Power BI dashboard:
+- built a 3-page Power BI dashboard:
  - Overview
  - SKU & Location Analysis
  - Stock Risk
@@ -37,11 +37,11 @@ The dataset contains 2023 inventory movement data, including:
 - Several location-SKU-month combinations showed potential stockout risk where customer demand exceeded outflow and ending stock dropped to zero
 - The dataset also contained repeated cases of positive ending stock with zero outflow, suggesting slow-moving or excess inventory
 
-## Repositoty Structure 
+## Repository Structure 
 ``` text
 data/
 notebooks/
-scripst/
+scripts/
 sql/
 images/
 powerbi/
