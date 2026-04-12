@@ -41,10 +41,9 @@ The dataset contains 2023 inventory movement data, including:
 ``` text
 data/
 notebooks/
-scripts/
+powerbi/
 sql/
 images/
-powerbi/
 README.md
 ```
 # Dashboard Preview
